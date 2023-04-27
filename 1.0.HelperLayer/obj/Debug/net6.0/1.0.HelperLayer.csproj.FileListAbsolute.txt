@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\bin\Debug\net6.0\1.0.HelperLayer.deps.json
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\bin\Debug\net6.0\1.0.HelperLayer.dll
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\bin\Debug\net6.0\1.0.HelperLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.AssemblyInfo.cs
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.dll
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\refint\1.0.HelperLayer.dll
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\1.0.HelperLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\1.0.HelperLayer\obj\Debug\net6.0\ref\1.0.HelperLayer.dll

@@ -1,0 +1,24 @@
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.deps.json
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.dll
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.pdb
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.csproj.AssemblyReference.cache
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.AssemblyInfoInputs.cache
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.AssemblyInfo.cs
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.csproj.CoreCompileInputs.cache
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.dll
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\refint\0.0.DataTransferLayer.dll
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.pdb
+G:\Visual Studio Community\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\ref\0.0.DataTransferLayer.dll
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.deps.json
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.dll
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\bin\Debug\net6.0\0.0.DataTransferLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.AssemblyInfo.cs
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.dll
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\refint\0.0.DataTransferLayer.dll
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\0.0.DataTransferLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\0.0.DataTransferLayer\obj\Debug\net6.0\ref\0.0.DataTransferLayer.dll

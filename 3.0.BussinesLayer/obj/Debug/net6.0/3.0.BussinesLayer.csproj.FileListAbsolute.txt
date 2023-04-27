@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\bin\Debug\net6.0\3.0.BussinesLayer.deps.json
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\bin\Debug\net6.0\3.0.BussinesLayer.dll
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\bin\Debug\net6.0\3.0.BussinesLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.AssemblyInfo.cs
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.dll
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\refint\3.0.BussinesLayer.dll
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\3.0.BussinesLayer.pdb
+C:\Users\pc\source\repos\apirfagenda\3.0.BussinesLayer\obj\Debug\net6.0\ref\3.0.BussinesLayer.dll

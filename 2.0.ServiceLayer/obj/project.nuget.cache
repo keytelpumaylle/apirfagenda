@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZA8MoCxNB8reHP+sBZzdzBgamEsd2fQ9rFCPDyfZOA8bN9AyjZ+rbIweuzPNfMoAMKsYcb47wcnX1/f1XwANw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\apirfagenda\\2.0.ServiceLayer\\2.0.ServiceLayer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
